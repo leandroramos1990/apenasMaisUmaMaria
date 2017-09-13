@@ -1,0 +1,16 @@
+{
+  "transport": "ftp",
+  "uploadOnSave": true,
+  "useAtomicWrites": true,
+  "deleteLocal": true,
+  "hostname": "decoracaomdf.com",
+  "target": "/public_html/Juliana/",
+  "ignore": [
+    ".remote-sync.json",
+    ".git/**"
+  ],
+  "username": "decor024",
+  "password": "1f5DfcBf66",
+  "port": "21",
+  "watch": []
+}

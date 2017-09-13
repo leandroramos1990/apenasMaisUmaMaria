@@ -1,0 +1,22 @@
+.tunel {
+  background-image: url("../static/images/tunel.jpg");
+  min-height: 100%;
+  -webkit-filter: sepia(0.75);
+  filter: sepia(0.75);
+}
+
+.bgimg-2 {
+  background-image: url("../static/images/tunel-2.jpg");
+  min-height: 400px;
+}
+
+.bgimg-3 {
+  background-image: url("../static/images/serra.jpg");
+  min-height: 400px;
+}
+
+.audio {
+    margin: auto;
+    width: 23%;
+    margin-top: 20px;
+}
