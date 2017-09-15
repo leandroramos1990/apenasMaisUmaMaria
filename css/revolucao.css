@@ -1,8 +1,6 @@
 .tunel {
   background-image: url("../static/images/tunel.jpg");
   min-height: 100%;
-  -webkit-filter: sepia(0.75);
-  filter: sepia(0.75);
 }
 
 .bgimg-2 {
@@ -19,4 +17,20 @@
     margin: auto;
     width: 23%;
     margin-top: 20px;
+}
+
+.video {
+  padding: 20px 20px 35px 20px;
+  /* margin-bottom: 50px; */
+  background: #282e34;
+}
+
+.video h3 {
+  color: white
+}
+
+.video video {
+  width: 80%;
+  margin: auto;
+  display: block;
 }
