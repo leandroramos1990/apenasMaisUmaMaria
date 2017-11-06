@@ -5,9 +5,27 @@ body, html {
   color: #777;
 }
 
+body.intro {overflow: hidden;}
+
+nav {padding-left: 40px !important;}
+
+.destaque {margin: auto; width: 60%; padding-top: 80px; }
+.destaque h2 {color: white; width: 80%; text-align: center;}
+.destaque p {font-weight: 500;
+    color: white;
+    font-size: 20px;
+    width: 80%;
+    text-align: justify;
+  }
+
 .old {
   -webkit-filter: sepia(0.75);
   filter: sepia(0.75);
+}
+
+.grayscale{
+  -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+  filter: grayscale(100%);
 }
 
 .parallax {
@@ -28,30 +46,25 @@ body, html {
 
 }
 
-.caption {
-  position: absolute;
-  left: 0;
-  top: 50%;
-  width: 100%;
-  text-align: center;
-  color: #000;
-}
+p {text-indent: 40px}
 
-.caption span.border {
-  background-color: #111;
-  color: #fff;
-  padding: 18px;
-  font-size: 25px;
-  letter-spacing: 10px;
-}
+.intro .video video {width: 100%}
+.intro #open {cursor: pointer;}
+.intro .caption {top: 70% !important}
 
-h3 {
-  letter-spacing: 5px;
-  text-transform: uppercase;
-  font: 20px "Lato", sans-serif;
-  color: #111;
-  text-align: center;
-}
+.caption { position: absolute; left: 0; top: 50%; width: 100%; text-align: center; color: #000;}
+.caption span.border { background-color: #111; color: #fff; padding: 18px; font-size: 25px; letter-spacing: 10px;}
+h3 {letter-spacing: 5px; text-transform: uppercase; font: 20px "Lato", sans-serif; color: #111; text-align: center; }
+
+.middle {color: #777; background-color:white;text-align:center;padding:50px 80px;text-align: justify; }
+.middle h3 {width: 100%}
+.middle img {width: 90%; margin: auto; display: block;}
+
+.carousel { width: 60%; margin: auto; padding: 15px;}
+.carousel-inner { height: 500px; background: #282e34;}
+
+.sub-title-aside{ margin-bottom: 15px; margin-top: 20px;}
+.images-aside img{ margin-top: 20px }
 
 /* Turn off parallax scrolling for tablets and phones */
 @media only screen and (max-device-width: 1024px) {

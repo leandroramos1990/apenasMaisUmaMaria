@@ -5,7 +5,7 @@ jQuery(document).ready(function($){
 
   setTimeout(function(){
     console.log(audio);
-    audio.play();
+    //audio.play();
   }, 2000);
 
 });

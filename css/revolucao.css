@@ -25,12 +25,13 @@
   background: #282e34;
 }
 
-.video h3 {
-  color: white
-}
+.video h3 { color: white}
 
-.video video {
-  width: 80%;
-  margin: auto;
-  display: block;
-}
+.video video { width: 50%; margin: auto; display: block; }
+
+p.destaque {    font-weight: 300;
+    color: white;
+    font-size: 20px;
+    width: 30%;
+    text-align: justify;
+    margin-left: 15px;}

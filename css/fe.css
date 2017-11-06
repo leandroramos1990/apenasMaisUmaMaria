@@ -1,0 +1,4 @@
+.fe-fixed-image {
+  background-image: url("../static/images/fe.jpg");
+  min-height: 100%;
+}
