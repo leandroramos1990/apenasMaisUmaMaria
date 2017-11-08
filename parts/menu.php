@@ -15,10 +15,10 @@
       </li>
 
       <li class="nav-item familia">
-        <a class="nav-link" href="#">Família</a>
+        <a class="nav-link" href="/Juliana/familia.php">Família</a>
       </li>
 
-      <li class="nav-item">
+      <li class="nav-item fe">
         <a class="nav-link" href="/Juliana/fe.php">Fé</a>
       </li>
 

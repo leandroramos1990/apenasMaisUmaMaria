@@ -16,7 +16,11 @@ nav {padding-left: 40px !important;}
     font-size: 20px;
     width: 80%;
     text-align: justify;
-  }
+}
+
+.destaque p.right{
+  text-align: right;
+}
 
 .old {
   -webkit-filter: sepia(0.75);
@@ -66,9 +70,21 @@ h3 {letter-spacing: 5px; text-transform: uppercase; font: 20px "Lato", sans-seri
 .sub-title-aside{ margin-bottom: 15px; margin-top: 20px;}
 .images-aside img{ margin-top: 20px }
 
+.black-area{
+  color:#ddd;
+  background-color:#282E34;
+  text-align:center;
+  padding:50px 200px;
+  text-align: justify;
+}
+
 /* Turn off parallax scrolling for tablets and phones */
 @media only screen and (max-device-width: 1024px) {
     .bgimg-1, .bgimg-2, .bgimg-3 {
         background-attachment: scroll;
+    }
+
+    .velas img{
+      width: 100%
     }
 }

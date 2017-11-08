@@ -1,0 +1,23 @@
+.perfil-fixed-image {
+  background-image: url("../static/images/perfil.jpg");
+  min-height: 100%;
+}
+
+.perfil .destaque{
+  margin: initial;
+  width: 50%;
+  padding-top: 40px;
+}
+
+.perfil .destaque h2{
+  margin-bottom: 20px
+}
+
+.perfil .destaque p{
+    font-weight: 500;
+    color: white;
+    font-size: 20px;
+    width: 70%;
+    text-align: justify;
+    margin-left: 20px;
+}

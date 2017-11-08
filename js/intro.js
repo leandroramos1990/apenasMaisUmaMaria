@@ -10,7 +10,7 @@ jQuery(document).ready(function($){
 
 
   $("#open").click(function(){
-    window.open("http://decoracaomdf.com/Juliana/revolucao.php",'_self');
+    window.open("http://decoracaomdf.com/Juliana/perfil.php",'_self');
   });
 
 });

@@ -76,9 +76,9 @@
       <?php //include_once getcwd(). "/parts/carousel.php" ?>
     </div>
   </div>
-  
+
   <div style="position:relative;">
-    <div style="color:#ddd;background-color:#282E34;text-align:center;padding:50px 80px;text-align: justify;">
+    <div class="black-area">
 
 
       <p>
@@ -118,7 +118,7 @@
   </div>
 
   <div style="position:relative;">
-    <div style="color:#ddd;background-color:#282E34;text-align:center;padding:50px 80px;text-align: justify;">
+    <div class="black-area">
 
       <div class="video">
 

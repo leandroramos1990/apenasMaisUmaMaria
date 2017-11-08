@@ -14,7 +14,7 @@
       $carouselImages = ["rosa.jpg","santos.jpg","cama.jpg"]
     ?>
 
-    <div class="fe-fixed-image parallax grayscale">
+    <div class="fe-fixed-image fe parallax grayscale">
 
         <div class="destaque">
 
@@ -73,10 +73,17 @@
       </div>
 
 
-      <div style="position:relative;">
-        <div style="color:#ddd;background-color:#282E34;text-align:center;padding:50px 80px;text-align: justify;">
+      <div style="position:relative;" class="velas">
+        <div style="color:#ddd;background-color:#282E34;text-align:center;padding:50px 160px;text-align: justify;" class="black-area">
 
           <h3 class="sub-title-aside">As velas das almas</h3>
+
+          <div class="row">
+            <div class="col-sm-12 col-md-12">
+              <img src="static/images/velas.jpg" alt="">
+            </div>
+          </div>
+
 
           <p>
             É noite de segunda-feira, cai um sereno fino lá fora, estamos no mês de outubro e quem conhece essa região do Brasil sabe que um friozinho nessa época do ano não é normal de acontecer. Dona Maria está com um vestido estampado e com uma blusa branca de manga comprida por cima dele e com uma meia de sapatilha nos pés.
@@ -89,7 +96,6 @@
           <p>
             As velas para as almas segundo Dona Maria só podem ser acesas no chão, uma tradição que aprendeu com sua avó e com sua mãe, não sabe bem explicar o motivo.
           </p>
-
         </div>
       </div>
 
