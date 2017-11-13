@@ -4,7 +4,7 @@
   "useAtomicWrites": true,
   "deleteLocal": true,
   "hostname": "decoracaomdf.com",
-  "target": "/public_html/Juliana/",
+  "target": "/public_html/oresgatedasmemoriasdemaria.com.br",
   "ignore": [
     ".remote-sync.json",
     ".git/**"

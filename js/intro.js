@@ -10,7 +10,11 @@ jQuery(document).ready(function($){
 
 
   $("#open").click(function(){
-    window.open("http://decoracaomdf.com/Juliana/perfil.php",'_self');
+    window.open("http://oresgatedasmemoriasdemaria.com.br/perfil.php",'_self');
   });
+
+  video.addEventListener('ended',function(){
+    window.open("http://oresgatedasmemoriasdemaria.com.br/perfil.php",'_self');
+  }, false);
 
 });

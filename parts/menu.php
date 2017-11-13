@@ -1,5 +1,5 @@
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
-  <a class="navbar-brand" href="/Juliana/">Home</a>
+  <a class="navbar-brand" href="/">Home</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
@@ -7,24 +7,26 @@
     <ul class="navbar-nav">
 
       <li class="nav-item perfil">
-        <a class="nav-link" href="/Juliana/perfil.php">Perfil</a>
+        <a class="nav-link" href="/perfil.php">Perfil</a>
       </li>
 
       <li class="nav-item revolucao">
-        <a class="nav-link" href="/Juliana/revolucao.php">Revolução </a>
+        <a class="nav-link" href="/revolucao.php">Revolução </a>
       </li>
 
       <li class="nav-item familia">
-        <a class="nav-link" href="/Juliana/familia.php">Família</a>
+        <a class="nav-link" href="/familia.php">Família</a>
       </li>
 
       <li class="nav-item fe">
-        <a class="nav-link" href="/Juliana/fe.php">Fé</a>
+        <a class="nav-link" href="/fe.php">Fé</a>
       </li>
 
+      <!--
       <li class="nav-item">
-        <a class="nav-link" href="/Juliana/galeria.php">Galeria</a>
+        <a class="nav-link" href="/galeria.php">Galeria</a>
       </li>
+      -->
 
       <li class="nav-item">
         <a class="nav-link" href="#">Diário de bordo</a>
@@ -36,6 +38,7 @@
 
 <link rel="stylesheet" href="css/style.css">
 <link rel="stylesheet" href="css/index.css">
+  <link rel="stylesheet" href="css/bootstrap.min.css">
 
 <script type="text/javascript" src="js/jquery.js"></script>
 <script type="text/javascript" src="js/popper.min.js"></script>

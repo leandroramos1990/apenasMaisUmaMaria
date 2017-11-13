@@ -1,12 +1,14 @@
 .perfil-fixed-image {
   background-image: url("../static/images/perfil.jpg");
   min-height: 100%;
+  margin-bottom: -20px;
 }
 
 .perfil .destaque{
   margin: initial;
   width: 50%;
   padding-top: 40px;
+  padding-bottom: 30px;
 }
 
 .perfil .destaque h2{

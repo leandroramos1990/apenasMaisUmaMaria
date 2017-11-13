@@ -22,10 +22,10 @@
     <div class="video">
       <video src="static/videos/intro.mp4"></video>
     </div>
+
     <div class="caption">
       <span class="border" id="open">ENTRAR</span>
     </div>
-
 
 
   <?php include_once getcwd(). "/parts/footer.php" ?>

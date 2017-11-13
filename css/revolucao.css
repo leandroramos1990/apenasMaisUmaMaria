@@ -35,3 +35,37 @@ p.destaque {    font-weight: 300;
     width: 30%;
     text-align: justify;
     margin-left: 15px;}
+
+.caminho img {
+  width: 50%;
+  margin: auto;
+  display: block;
+  margin-bottom: 20px
+}
+
+.center-image {
+  padding: 20px
+}
+
+.tunel-morte {
+  margin: initial;
+  width: 60%;
+  padding-top: 40px;
+  padding-bottom: 30px;
+  margin-left: 40px;
+}
+
+.tunel-morte h2 { width: 100%; margin-bottom: 20px; font-size: x-large;}
+
+.tunel-morte p {
+  width: 100%;
+  font-size: 16px
+}
+
+.matraca video {
+  width: 199px;
+  height: 350px;
+  margin: auto;
+  display: block;
+  margin-bottom: 40px;
+}
