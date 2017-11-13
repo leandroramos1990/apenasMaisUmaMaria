@@ -28,8 +28,8 @@
       </li>
       -->
 
-      <li class="nav-item">
-        <a class="nav-link" href="#">Diário de bordo</a>
+      <li class="nav-item diario-bordo">
+        <a class="nav-link" href="/diario_bordo.php">Diário de bordo</a>
       </li>
 
     </ul>

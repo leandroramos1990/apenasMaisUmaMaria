@@ -1,9 +1,34 @@
 <footer>
-  <!--
-  <blockquote>
-      Morbi placerat imperdiet risus quis blandit. Ut lobortis elit luctus, feugiat erat vitae, interdum diam. Nam sit amet arcu vitae justo lacinia ultricies nec eget tellus. Curabitur id sapien massa. In hac <a href="#">habitasse</a> platea dictumst. Integer tristique leo consectetur libero pretium pretium. Nunc sed mauris magna. Praesent varius purus id turpis iaculis iaculis. Nulla <em>convallis magna nunc</em>, id rhoncus massa ornare in. Donec et feugiat sem, ac rhoncus mauris. Quisque eget tempor massa.
-    </blockquote>
-  -->
+
+    <h3>EXPEDIENTE</h3>
+    <div class="row">
+
+      <div class="col-sm-6">
+          <blockquote>
+            <h4>Edição</h4>
+
+            <p>
+              Juliana Monique Machado Freitas
+            </p>
+            <p class="small">jumachado.jor@gmail.com</p>
+          </blockquote>
+
+      </div>
+
+      <div class="col-sm-6">
+          <blockquote>
+            <h4>Design e desenvolvimento</h4>
+            <p>
+              Leandro Eduardo de Andrade Nazaré Ramos
+            </p>
+            <p class="small">leandroramos.crz@gmail.com</p>
+
+          </blockquote>
+      </div>
+    </div>
+
+
+
 
   <link rel="stylesheet" href="css/responsive.css">
 

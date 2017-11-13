@@ -35,8 +35,6 @@
             <h3 class="sub-title-aside">O quarto de Maria</h3>
 
 
-
-
             <p>
                O quarto de dona Maria é o seu pequeno oratório, as paredes brancas ganham cor com seus quadros. Em cima de sua cômoda fica seu altar, e para cada imagem uma história para contar. Sua cama ganha proteção com os terços pendurados nas paredes.
             </p>
@@ -129,7 +127,6 @@
               <img src="static/images/velas.jpg" alt="">
             </div>
           </div>
-
 
           <p>
             É noite de segunda-feira, cai um sereno fino lá fora, estamos no mês de outubro e quem conhece essa região do Brasil sabe que um friozinho nessa época do ano não é normal de acontecer. Dona Maria está com um vestido estampado e com uma blusa branca de manga comprida por cima dele e com uma meia de sapatilha nos pés.

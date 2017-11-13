@@ -90,6 +90,16 @@ footer {
   background-color:#282E34;
   padding:50px;
   text-align: justify;
+  border-top: 1px solid white;
+}
+
+footer blockquote{
+  box-shadow: none;
+  padding: 5px 10px 5px 45px;
+}
+
+footer blockquote p.small{
+  font-size: small
 }
 
 /* Turn off parallax scrolling for tablets and phones */
@@ -182,3 +192,10 @@ blockquote h4{
   border-radius: 10px;
   padding: 10px;
 }
+
+p.italic {font-style: italic; margin-top: 20px}
+
+.sebastiao img {
+    width: 50%;
+    margin: auto;
+    display: block;}

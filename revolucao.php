@@ -84,7 +84,7 @@
 
         <img src="static/images/1932_placa.jpg" alt="">
 
-        
+
         <img src="static/images/estacao.jpg" alt="">
 
 
@@ -191,26 +191,35 @@
   </div>
 
   <div style="position:relative;">
-    <div class="black-area">
+    <div class="middle">
 
-      <h3 class="sub-title-aside">Curiosidades da Revolução de  1932: Matraca</h3>
+      <div class="row">
 
-      <div class="matraca">
-        <video src="static/videos/matraca.mp4" controls></video>
+        <div class="col-sm-6">
+          <h3 class="sub-title-aside">Curiosidades da Revolução de  1932: Matraca</h3>
+
+          <p>
+            Até os dia de hoje dona Maria, se assusta com barulhos por conta das bombas e dos tiros escutados quando criança. “Era muito barulho, as bombas caíam no terreno de malhar feijão e jogavam bastante terra para cima. O som da metralhadora me arrepia até hoje só de lembrar. Meu Deus como eu tive medo naqueles dias”, relata dona Maria.
+          </p>
+
+          <p>
+            Por mais incrível que pareça esse invento, é uma curiosidade da revolução de 1932, feita de madeira e ferro, obra de um engenheiro da cidade de Piracicaba, chamado Otávio Teixeira Neme, esse instrumento ganhou o nome de matraca e foi utilizado nas frentes de batalhas, para suprir a falta de munição dos revolucionários  paulistas. Essa obra engenhosa assustou as tropas getulistas e conseguiu, por um tempo conter o seu avanço. O som é impressionante, alto e forte, se parece com o som de uma metralhadora de alta intensidade.
+          </p>
+
+          <p>
+            O historiador e pesquisador, Carlos Felipe Francisco do Nascimento tem uma réplica em sua casa, semelhante a do Capitão Neco que foi um militar brasileiro, Nascido no ano de 1892 na cidade de Cruzeiro, capitão do 5º Regimento de Infantaria do Exército Brasileiro e capitão do Exército Constitucionalista do Setor Norte durante a Revolução Constitucionalista de 1932.  Segundo o historiador Carlos Felipe, Capitão Neco foi morto em combate no dia 5 de agosto de 1932, de uma família tradicional cruzeirense, filho do Coronel de Paula Novaes e de Dona Anna Romeu e neto do fundador da cidade de Cruzeiro, Major Novaes, hoje é considerado um herói da Revolução.
+          </p>
+
+        </div>
+
+        <div class="col-sm-6">
+          <div class="matraca">
+            <video src="static/videos/matraca.mp4" controls></video>
+          </div>
+        </div>
+
       </div>
 
-
-      <p>
-        Até os dia de hoje dona Maria, se assusta com barulhos por conta das bombas e dos tiros escutados quando criança. “Era muito barulho, as bombas caíam no terreno de malhar feijão e jogavam bastante terra para cima. O som da metralhadora me arrepia até hoje só de lembrar. Meu Deus como eu tive medo naqueles dias”, relata dona Maria.
-      </p>
-
-      <p>
-        Por mais incrível que pareça esse invento, é uma curiosidade da revolução de 1932, feita de madeira e ferro, obra de um engenheiro da cidade de Piracicaba, chamado Otávio Teixeira Neme, esse instrumento ganhou o nome de matraca e foi utilizado nas frentes de batalhas, para suprir a falta de munição dos revolucionários  paulistas. Essa obra engenhosa assustou as tropas getulistas e conseguiu, por um tempo conter o seu avanço. O som é impressionante, alto e forte, se parece com o som de uma metralhadora de alta intensidade.
-      </p>
-
-      <p>
-        O historiador e pesquisador, Carlos Felipe Francisco do Nascimento tem uma réplica em sua casa, semelhante a do Capitão Neco que foi um militar brasileiro, Nascido no ano de 1892 na cidade de Cruzeiro, capitão do 5º Regimento de Infantaria do Exército Brasileiro e capitão do Exército Constitucionalista do Setor Norte durante a Revolução Constitucionalista de 1932.  Segundo o historiador Carlos Felipe, Capitão Neco foi morto em combate no dia 5 de agosto de 1932, de uma família tradicional cruzeirense, filho do Coronel de Paula Novaes e de Dona Anna Romeu e neto do fundador da cidade de Cruzeiro, Major Novaes, hoje é considerado um herói da Revolução.
-      </p>
 
     </div>
   </div>
